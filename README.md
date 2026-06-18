@@ -5,4 +5,5 @@
  Key Concepts:
  
    1.API Integration: Connect to a weather API and parse JSON data.
+   
    2.User Input Handling: Validate and process user input for location.
